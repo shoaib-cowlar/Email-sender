@@ -1,0 +1,66 @@
+<h2><%= position %></h2>
+
+<p>Dear <%= name %>,</p>
+
+<p>
+  I hope this email finds you in the best of health. I would like to express my
+  appreciation for your interest in Cowlar Design Studio.
+</p>
+
+<p>
+  We are a Design Studio that provides a full range of services, including
+  Embedded, Electronics, and Mechanical Design Engineering, as well as expertise
+  in ML/AI, Full Stack Web Development, cross-platform Mobile Development, and
+  Technical Operations. Our team is equipped to handle all aspects of your
+  project needs. Our products and services are technology-agnostic,
+  geography-agnostic, and industry agnostic.
+</p>
+ <% if (withoutskill) { %>
+<p>
+  We hereby acknowledge the receipt of your application for the position of <b>"<%= position %>"</b>. Following a comprehensive review of your credentials, we
+  will get back to you.
+</p>
+<% } else { %>
+<p>
+  In order to help you prepare for your interview, I have attached the
+  preparation document. This
+  <b>
+    <a href="<%= prepDoc %>" style="text-decoration: none"
+      >"<%= position %>"</a
+    ></b
+  >
+  will provide you a comprehensive outline of the specific areas you need to
+  prepare for the interview. Your primary focus should be on:
+</p>
+
+<ol>
+  <% for (let skill of skills) { %>
+  <li><%- skill %></li>
+  <% } %>
+</ol>
+
+<p>This will help you get started and push yourself to learn.</p>
+
+<% } %>
+<p>
+  Furthermore, we would like to draw your attention to our
+  <b
+    ><a
+      href="https://docs.google.com/presentation/d/1tKibguPrj8yQxlz8kyJgV6BCzxOTH-bERbRDEuiF22M/edit"
+      style="text-decoration: none"
+      >"Cowlar's Culture Document"</a
+    ></b
+  >, which is essential to our company's values. We believe in creating an
+  inclusive and collaborative work environment where everyone can thrive.
+</p>
+
+<p>
+  Thank you for your interest in Cowlar Design Studio. We look forward to
+  hearing from you soon. Please feel free to contact us if you have any
+  questions or concerns.
+</p>
+
+<p>
+  Best regards,<br />Talent Acquisition Team<br />0342-1570702 (Nakkash
+  Kiyyani)<br />0306-0557336 (Hassan Raza)<br />Cowlar Design Studio
+</p>

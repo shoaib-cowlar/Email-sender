@@ -1,0 +1,290 @@
+[
+  {
+    "position": "Design Engineer - Embedded",
+    "skills": [
+      "ESP32",
+      "STM32",
+      "MQTT",
+      "RaspberryPi",
+      "Sensor Integrations",
+      "Writing Embedded Software, etc."
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1sk9j9zz2w1iIJS6SDeLw4QOoVxvbeMtlWtXBbFVTzCs/edit?usp=sharing"
+  },
+  {
+    "position": "Embedded Design Intern",
+    "skills": [
+      "ESP32",
+      "STM32",
+      "MQTT",
+      "RaspberryPi",
+      "Sensor Integrations",
+      "Writing Embedded Software, etc."
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1sk9j9zz2w1iIJS6SDeLw4QOoVxvbeMtlWtXBbFVTzCs/edit?usp=sharing"
+  },
+  {
+    "position": "Design Engineer - Electronics",
+    "skills": [
+      "Git",
+      "Electronics Terminologies & components",
+      "Circuit Board Assembly",
+      "PCBA process",
+      "Using drawing to assemble circuits & reading schematics",
+      "SMD component codes",
+      "SMD components essentials",
+      "ESP32",
+      "STM32",
+      "MQTT",
+      "RaspberryPi",
+      "Sensor Integrations"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1sk9j9zz2w1iIJS6SDeLw4QOoVxvbeMtlWtXBbFVTzCs/edit?usp=sharing"
+  },
+  {
+    "position": "Electronics Design Intern",
+    "skills": [
+      "Git",
+      "Electronics Terminologies & components",
+      "Circuit Board Assembly",
+      "PCBA process",
+      "Using drawing to assemble circuits & reading schematics",
+      "SMD component codes",
+      "SMD components essentials",
+      "ESP32",
+      "STM32",
+      "MQTT",
+      "RaspberryPi",
+      "Sensor Integrations"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1sk9j9zz2w1iIJS6SDeLw4QOoVxvbeMtlWtXBbFVTzCs/edit?usp=sharing"
+  },
+  {
+    "position": "Design Engineer - ML/AI",
+    "skills": [
+      "Python with OOP",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Data Pipelines",
+      "NLP",
+      "MLOps",
+      "LabelOps"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1HSL7X7h30_726PMWsHTa9LhoTCC4rVGgBx5tbiEkA5k/edit"
+  },
+  {
+    "position": "ML/AI Intern",
+    "skills": [
+      "Python with OOP",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Data Pipelines",
+      "NLP",
+      "MLOps",
+      "LabelOps"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1HSL7X7h30_726PMWsHTa9LhoTCC4rVGgBx5tbiEkA5k/edit"
+  },
+  {
+    "position": "Design Engineer - Mechanical",
+    "skills": [
+      "Additive manufacturing",
+      "CAD",
+      "Design for manufacturing (DFM)",
+      "Geometric drawing and Tolerances",
+      "Keyshot/Blender",
+      "Understanding of Electromechanical systems"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1GJwQDa3b9B_3Snhq6nfhPTLOA95bVzqy5fwMcWRBVUI/edit?usp=sharing"
+  },
+  {
+    "position": "Mechanical Design Intern",
+    "skills": [
+      "Additive manufacturing",
+      "CAD",
+      "Design for manufacturing (DFM)",
+      "Geometric drawing and Tolerances",
+      "Keyshot/Blender",
+      "Understanding of Electromechanical systems"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1GJwQDa3b9B_3Snhq6nfhPTLOA95bVzqy5fwMcWRBVUI/edit?usp=sharing"
+  },
+  {
+    "position": "SQA Engineer",
+    "skills": [
+      "Cypress",
+      "JavaScript",
+      "GIT",
+      "Jira",
+      "Jest",
+      "Hardware Testing"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1RQHa-GSzSg5-whx7-to7zMgvu2deleilTcIcAE5IsX0/edit?usp=sharing"
+  },
+  {
+    "position": "SQA Intern",
+    "skills": [
+      "Cypress",
+      "JavaScript",
+      "GIT",
+      "Jira",
+      "Jest",
+      "Hardware Testing"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1RQHa-GSzSg5-whx7-to7zMgvu2deleilTcIcAE5IsX0/edit?usp=sharing"
+  },
+  {
+    "position": "Full Stack Developer",
+    "skills": [
+      "Node.js",
+      "Vue.js (Concepts)",
+      "Databases",
+      "MQTT",
+      "GIT",
+      "HTML/CSS",
+      "Flutter (optional)"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1q5b1m-BjwqmcGwWl3EiNLCa29ez9MEcRWWR6TKI6OMg/edit?usp=sharing"
+  },
+  {
+    "position": "Full Stack Developer - MERN/MEVN Intern",
+    "skills": [
+      "Node.js",
+      "Vue.js (Concepts)",
+      "Databases",
+      "MQTT",
+      "GIT",
+      "HTML/CSS",
+      "Flutter (optional)"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1q5b1m-BjwqmcGwWl3EiNLCa29ez9MEcRWWR6TKI6OMg/edit?usp=sharing"
+  },
+  {
+    "position": "Flutter Developer",
+    "skills": [
+      "Flutter",
+      "GIT",
+      "Databases",
+      "MySql",
+      "PostgreSQL",
+      "MongoDB",
+      "Sqlite",
+      "Indexing"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1rF7CfxzViyIzffJ0RlFj4CT-yVgFZR0w0mHeuvZEzWI/edit?usp=sharing"
+  },
+  {
+    "position": "Flutter Developer Intern",
+    "skills": [
+      "Flutter",
+      "GIT",
+      "Databases",
+      "MySql",
+      "PostgreSQL",
+      "MongoDB",
+      "Sqlite",
+      "Indexing"
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1rF7CfxzViyIzffJ0RlFj4CT-yVgFZR0w0mHeuvZEzWI/edit?usp=sharing"
+  },
+  {
+    "position": "UI/UX Designer",
+    "skills": [
+      "<b>User Research<b>: The ability to understand users' needs, behaviours, and motivations. You should be familiar with different research methods like interviews, surveys, and usability testing.",
+      "<b>Interaction Design</b>: The proficiency in creating engaging interaction models, user task flows, and UI (user interface) specifications.",
+      "<b>Information Architecture</b>: The expertise in organising and structuring information in a clear and understandable way. You should be able to create effective and scalable navigation systems.",
+      "<b>Visual Design</b>: The skill in effectively communicating a message through the strategic use of visuals like symbols, colours, and typography. This includes being proficient in design tools like Sketch, Figma, or Adobe XD.",
+      "<b>Prototyping</b>: The ability to create rapid and iterative prototypes at different levels of fidelity, from paper sketches to interactive digital prototypes.",
+      "<b>Wireframing</b>: The competency in creating wireframes to illustrate the layout and functionality of a website or application, and to demonstrate the user journey.",
+      "<b>UX Writing</b>: The talent for crafting clear and concise text for user interfaces. The language used should guide the user and help them interact with the product.",
+      "<b>Understanding of Accessibility and Usability</b>: The knowledge and application of standards, guidelines, and best practices in creating universally accessible designs.",
+      "<b>Collaboration Skills</b>: The ability to work effectively in a team, communicate with stakeholders, and accept and integrate feedback.",
+      "<b>Familiarity with Agile and Scrum methodologies</b>: Understanding how design fits into Agile and Scrum workflows is crucial for the iterative and incremental nature of UX/UI design."
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1K4v4qjycZeeElGAl1L_iZbXfmG41Mj-BB_rR6hC8l98/edit?usp=sharing"
+  },
+  {
+    "position": "UI / UX Designer Intern",
+    "skills": [
+      "<b>User Research<b>: The ability to understand users' needs, behaviours, and motivations. You should be familiar with different research methods like interviews, surveys, and usability testing.",
+      "<b>Interaction Design</b>: The proficiency in creating engaging interaction models, user task flows, and UI (user interface) specifications.",
+      "<b>Information Architecture</b>: The expertise in organising and structuring information in a clear and understandable way. You should be able to create effective and scalable navigation systems.",
+      "<b>Visual Design</b>: The skill in effectively communicating a message through the strategic use of visuals like symbols, colours, and typography. This includes being proficient in design tools like Sketch, Figma, or Adobe XD.",
+      "<b>Prototyping</b>: The ability to create rapid and iterative prototypes at different levels of fidelity, from paper sketches to interactive digital prototypes.",
+      "<b>Wireframing</b>: The competency in creating wireframes to illustrate the layout and functionality of a website or application, and to demonstrate the user journey.",
+      "<b>UX Writing</b>: The talent for crafting clear and concise text for user interfaces. The language used should guide the user and help them interact with the product.",
+      "<b>Understanding of Accessibility and Usability</b>: The knowledge and application of standards, guidelines, and best practices in creating universally accessible designs.",
+      "<b>Collaboration Skills</b>: The ability to work effectively in a team, communicate with stakeholders, and accept and integrate feedback.",
+      "<b>Familiarity with Agile and Scrum methodologies</b>: Understanding how design fits into Agile and Scrum workflows is crucial for the iterative and incremental nature of UX/UI design."
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1K4v4qjycZeeElGAl1L_iZbXfmG41Mj-BB_rR6hC8l98/edit?usp=sharing"
+  },
+  {
+    "position": "Associate Product Designer",
+    "skills": [
+      "<b>User Research:</b> The ability to understand users' needs, behaviors, and motivations. You should be familiar with different research methods like interviews, surveys, and usability testing.",
+      "<b>Interaction Design:</b> The proficiency in creating engaging interaction models, user task flows, and UI (user interface) specifications.",
+      "<b>Information Architecture:</b> The expertise in organizing and structuring information in a clear and understandable way. You should be able to create effective and scalable navigation systems.",
+      "<b>Visual Design:</b> The skill in effectively communicating a message through the strategic use of visuals like symbols, colors, and typography. This includes being proficient in design tools like Sketch, Figma, or Adobe XD.",
+      "<b>Prototyping:</b> The ability to create rapid and iterative prototypes at different levels of fidelity, from paper sketches to interactive digital prototypes.",
+      "<b>Wireframing:</b> The competency in creating wireframes to illustrate the layout and functionality of a website or application and to demonstrate the user journey.",
+      "<b>UX Writing:</b> The talent for crafting clear and concise text for user interfaces. The language used should guide the user and help them interact with the product.",
+      "<b>Understanding of Accessibility and Usability:</b> The knowledge and application of standards, guidelines, and best practices in creating universally accessible designs.",
+      "<b>Cross-functional Collaboration:</b> Being able to work with different teams such as development, marketing, sales, and customer support is crucial. This will help in creating a holistic product that not only meets user needs but also aligns with business goals and technical feasibility.",
+      "<b>Familiarity with Agile and Scrum methodologies:</b> Understanding how design fits into Agile and Scrum workflows is crucial for the iterative and incremental nature of UX/UI design.",
+      "<b>Project Management Skills:</b> The ability to manage tasks, prioritize work, and keep projects on track using project management tools, specifically Jira. Understanding the ins and outs of Jira, from creating tickets to tracking progress and managing releases, is critical.",
+      "<b>Product Ownership:</b> The capacity to take complete responsibility for the product, which involves envisioning the product strategy, understanding the market, competitor analysis, and driving the product roadmap. This includes taking ownership of the outcomes, resolving any product issues, and making key decisions.",
+      "<b>Stakeholder Management:</b> The ability to effectively communicate and negotiate with stakeholders, including clients, team members, and management. This includes articulating design decisions, gathering and integrating feedback, and balancing stakeholder needs with product realities.",
+      "<b>Leadership Skills:</b> As an associate product designer, one should have the ability to lead and influence others without necessarily having formal authority. This includes facilitating effective decision-making, promoting a collaborative team environment, and guiding the team towards achieving the product vision.",
+      "<b>Risk Management:</b> The ability to identify potential risks in the product development process and propose mitigation strategies. This includes an understanding of the technical constraints and business risks and effectively balancing them with user needs."
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1K4v4qjycZeeElGAl1L_iZbXfmG41Mj-BB_rR6hC8l98/edit?usp=sharing"
+  },
+  {
+    "position": "Product Design Intern",
+    "skills": [
+      "<b>User Research:</b> The ability to understand users' needs, behaviors, and motivations. You should be familiar with different research methods like interviews, surveys, and usability testing.",
+      "<b>Interaction Design:</b> The proficiency in creating engaging interaction models, user task flows, and UI (user interface) specifications.",
+      "<b>Information Architecture:</b> The expertise in organizing and structuring information in a clear and understandable way. You should be able to create effective and scalable navigation systems.",
+      "<b>Visual Design:</b> The skill in effectively communicating a message through the strategic use of visuals like symbols, colors, and typography. This includes being proficient in design tools like Sketch, Figma, or Adobe XD.",
+      "<b>Prototyping:</b> The ability to create rapid and iterative prototypes at different levels of fidelity, from paper sketches to interactive digital prototypes.",
+      "<b>Wireframing:</b> The competency in creating wireframes to illustrate the layout and functionality of a website or application and to demonstrate the user journey.",
+      "<b>UX Writing:</b> The talent for crafting clear and concise text for user interfaces. The language used should guide the user and help them interact with the product.",
+      "<b>Understanding of Accessibility and Usability:</b> The knowledge and application of standards, guidelines, and best practices in creating universally accessible designs.",
+      "<b>Cross-functional Collaboration:</b> Being able to work with different teams such as development, marketing, sales, and customer support is crucial. This will help in creating a holistic product that not only meets user needs but also aligns with business goals and technical feasibility.",
+      "<b>Familiarity with Agile and Scrum methodologies:</b> Understanding how design fits into Agile and Scrum workflows is crucial for the iterative and incremental nature of UX/UI design.",
+      "<b>Project Management Skills:</b> The ability to manage tasks, prioritize work, and keep projects on track using project management tools, specifically Jira. Understanding the ins and outs of Jira, from creating tickets to tracking progress and managing releases, is critical.",
+      "<b>Product Ownership:</b> The capacity to take complete responsibility for the product, which involves envisioning the product strategy, understanding the market, competitor analysis, and driving the product roadmap. This includes taking ownership of the outcomes, resolving any product issues, and making key decisions.",
+      "<b>Stakeholder Management:</b> The ability to effectively communicate and negotiate with stakeholders, including clients, team members, and management. This includes articulating design decisions, gathering and integrating feedback, and balancing stakeholder needs with product realities.",
+      "<b>Leadership Skills:</b> As an associate product designer, one should have the ability to lead and influence others without necessarily having formal authority. This includes facilitating effective decision-making, promoting a collaborative team environment, and guiding the team towards achieving the product vision.",
+      "<b>Risk Management:</b> The ability to identify potential risks in the product development process and propose mitigation strategies. This includes an understanding of the technical constraints and business risks and effectively balancing them with user needs."
+    ],
+    "prepDoc": "https://docs.google.com/document/d/1K4v4qjycZeeElGAl1L_iZbXfmG41Mj-BB_rR6hC8l98/edit?usp=sharing"
+  },
+  {
+    "position": "Technical Operations Engineer"
+  },
+  {
+    "position": "Industrial Designer"
+  },
+  {
+    "position": "Business Operations Associate"
+  },
+  {
+    "position": "Business Strategy Associate"
+  },
+  {
+    "position": "IT Nework Engineer"
+  },
+  {
+    "position": "IT Support"
+  },
+  {
+    "position": "Talent Acquisition Associate"
+  },
+  {
+    "position": "People Operations Executive"
+  }
+]
